@@ -9,4 +9,4 @@ Screenshots
 Video
 =====
 
-![Video](https://github.com/trbala0205/Speed-drive-manager-sample-app/blob/master/demo%20video/SpeedDriveMngt.mp4?raw=true)
+![Video](https://github.com/trbala0205/Speed-drive-manager-sample-app/blob/master/demo%20video/SpeedDriveMngt.gif?raw=true)
